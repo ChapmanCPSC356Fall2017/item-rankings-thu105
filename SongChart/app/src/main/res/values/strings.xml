@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Song Chart</string>
+    <string name="song_title_hint">Enter song title here</string>
+    <string name="song_artist_hint">Enter song artist here</string>
+    <string name="artist">Artist</string>
+    <string name="title">Title</string>
+</resources>
